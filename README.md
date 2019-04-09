@@ -1,5 +1,3 @@
-# XML
-实验三XML
 1.使用XML定义菜单
 我们使用的是option menu(选项菜单)
 activity_main.xml
